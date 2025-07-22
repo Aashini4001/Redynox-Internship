@@ -1,10 +1,12 @@
-# Redynox-Internship
-# Redynox-Internship-Report
+
 # 🛡️ Redynox Cybersecurity Internship Report
+
 
 Welcome to my GitHub repository showcasing the final documentation and deliverables from my cybersecurity internship at **Redynox**. This repository outlines the practical tasks I completed, tools I used, and the hands-on experience I gained while working on network and web application security.
 
 ---
+# Internship Start Date: july 6
+# Internship End Date : August 5
 
 ## 📌 Overview
 
@@ -32,7 +34,7 @@ The internship was divided into two main tasks:
 
 You can view or download the complete internship report below:
 
-📥 **[Download Redynox Cybersecurity Internship Report (PDF)](./Redynox cybersecurity internship report.pdf)**
+📥 **[Download Redynox Cybersecurity Internship Report (PDF)](./Redynox_cybersecurity_internship_report.pdf)**
 
 This report includes:
 - Background and objectives of each task
@@ -80,10 +82,10 @@ All screenshots are attached in the report
 
 ## 👤 Author
 
-**Peace Willie**  
+**AASHINI A**  
 Cybersecurity Analyst Intern  
-[LinkedIn](https://linkedin.com/in/peace-willie) 
-📧 peacewillie19@gmail.com
+[LinkedIn](https://linkedin.com/in/Aashini4001) 
+
 
 ---
 
